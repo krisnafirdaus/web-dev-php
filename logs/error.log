@@ -1,0 +1,388 @@
+[29-Oct-2024 13:45:16 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:45:16 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:45:16 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:45:16 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:45:16 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:45:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:05 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:05 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:05 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:13 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:13 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:13 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:24 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:24 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:24 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:24 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:24 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:24 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:39 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:46:39 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:46:39 UTC] [Debug] Setting flash message: Array
+(
+    [message] => You have been logged out successfully
+    [type] => success
+)
+
+[29-Oct-2024 13:46:49 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:49 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:49 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:46:53 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:46:53 UTC] Current session data: Array
+(
+    [user_id] => 5
+    [user_name] => Test User
+    [user_role] => user
+)
+
+[29-Oct-2024 13:46:53 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 5
+    [name] => Test User
+    [email] => test@example.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 20:40:12
+    [updated_at] => 2024-10-29 20:42:56
+)
+
+[29-Oct-2024 13:46:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:47:02 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:02 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:02 UTC] getCurrentUser called but user not logged in
+[29-Oct-2024 13:47:02 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:02 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:12 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:12 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:14 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:14 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:20 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:20 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Attempt for email: krisnafirdaus@gmail.com
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Raw password length: 9
+[29-Oct-2024 13:47:20 UTC] [Auth][Lock] Checking lock status for: krisnafirdaus@gmail.com
+[29-Oct-2024 13:47:20 UTC] [Auth][Lock] Attempts: 0, Last attempt: 
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] User data: Array
+(
+    [id] => 2
+    [name] => Krisna Firdaus
+    [email] => krisnafirdaus@gmail.com
+    [password] => $2y$10$u/KXYd1ZxZtgjXNPypXKRu2MzI/yXpSoyfs.NiWC63SvmP9mTioeu
+    [role] => user
+    [status] => active
+    [login_attempts] => 0
+    [last_login_attempt] => 
+)
+
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Password verification for user ID: 2
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Input password: kri***
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Stored hash: $2y$10$u/KXYd1ZxZtgjXNPypXKRu2MzI/yXpSoyfs.NiWC63SvmP9mTioeu
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Test hash with same password: $2y$10$YG5yGHZJkrzjdt5AS06D9OS/PNuxZCqWXsely8E1HKrRPBZJv4dxO
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Password valid: Yes
+[29-Oct-2024 13:47:20 UTC] [Auth][Login] Success for user ID: 2
+[29-Oct-2024 13:47:20 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:47:20 UTC] Current session data: Array
+(
+    [user_id] => 2
+    [user_name] => Krisna Firdaus
+    [user_role] => user
+)
+
+[29-Oct-2024 13:47:20 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 2
+    [name] => Krisna Firdaus
+    [email] => krisnafirdaus@gmail.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 2024-10-29 20:24:24
+    [created_at] => 2024-10-29 20:11:23
+    [updated_at] => 2024-10-29 20:47:20
+)
+
+[29-Oct-2024 13:47:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /Users/kickavenue/Desktop/web-dev-php/includes/header.php on line 2
+[29-Oct-2024 13:47:42 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:47:42 UTC] Current session data: Array
+(
+    [user_id] => 2
+    [user_name] => Krisna Firdaus
+    [user_role] => user
+)
+
+[29-Oct-2024 13:47:42 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 2
+    [name] => Krisna Firdaus
+    [email] => krisnafirdaus@gmail.com
+    [role] => user
+    [status] => active
+    [avatar] => 
+    [last_login] => 2024-10-29 20:24:24
+    [created_at] => 2024-10-29 20:11:23
+    [updated_at] => 2024-10-29 20:47:20
+)
+
+[29-Oct-2024 13:47:57 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:57 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:47:57 UTC] getCurrentUser called but user not logged in
+[29-Oct-2024 13:47:57 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:47:57 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:48:04 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:48:04 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:48:04 UTC] [Auth][Login] Attempt for email: admin@example.com
+[29-Oct-2024 13:48:04 UTC] [Auth][Login] Raw password length: 8
+[29-Oct-2024 13:48:04 UTC] [Auth][Lock] Checking lock status for: admin@example.com
+[29-Oct-2024 13:48:04 UTC] [Auth][Lock] Attempts: 3, Last attempt: 2024-10-29 20:19:15
+[29-Oct-2024 13:48:04 UTC] [Auth][Lock] Lock check - End: 1730234055, Now: 1730209684, Remaining: 24371
+[29-Oct-2024 13:48:04 UTC] [Auth][Lock] Account is locked for 24371 more seconds
+[29-Oct-2024 13:48:04 UTC] [Auth][Login] Account is locked: admin@example.com
+[29-Oct-2024 13:48:04 UTC] [Auth][Login] Error: Account is locked. Please try again later.
+[29-Oct-2024 13:48:04 UTC] [Debug] Setting flash message: Array
+(
+    [message] => Invalid email or password
+    [type] => error
+)
+
+[29-Oct-2024 13:49:39 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:49:39 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:49:49 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:49:49 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:49:49 UTC] [Auth][Login] Attempt for email: admin@example.com
+[29-Oct-2024 13:49:49 UTC] [Auth][Login] Raw password length: 8
+[29-Oct-2024 13:49:49 UTC] [Auth][Lock] Checking lock status for: admin@example.com
+[29-Oct-2024 13:49:49 UTC] [Auth][Lock] Attempts: 3, Last attempt: 2024-10-29 20:19:15
+[29-Oct-2024 13:49:49 UTC] [Auth][Lock] Lock check - End: 1730234055, Now: 1730209789, Remaining: 24266
+[29-Oct-2024 13:49:49 UTC] [Auth][Lock] Account is locked for 24266 more seconds
+[29-Oct-2024 13:49:49 UTC] [Auth][Login] Account is locked: admin@example.com
+[29-Oct-2024 13:49:49 UTC] [Auth][Login] Error: Account is locked. Please try again later.
+[29-Oct-2024 13:49:49 UTC] [Debug] Setting flash message: Array
+(
+    [message] => Invalid email or password
+    [type] => error
+)
+
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] Attempt for email: admin@example.com
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] Raw password length: 8
+[29-Oct-2024 13:51:02 UTC] [Auth][Lock] Checking lock status for: admin@example.com
+[29-Oct-2024 13:51:02 UTC] [Auth][Lock] Attempts: 0, Last attempt: 
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] User data: Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [password] => $2y$10$Nxk/8mBx1C9Nrm7B2PMYVehIfbwjhMpyhVfvdLQt4vgObncMKTis.
+    [role] => admin
+    [status] => active
+    [login_attempts] => 0
+    [last_login_attempt] => 
+)
+
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] Password verification for user ID: 1
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] Input password: adm***
+[29-Oct-2024 13:51:02 UTC] [Auth][Login] Stored hash: $2y$10$Nxk/8mBx1C9Nrm7B2PMYVehIfbwjhMpyhVfvdLQt4vgObncMKTis.
+[29-Oct-2024 13:51:03 UTC] [Auth][Login] Test hash with same password: $2y$10$QRGWgUQL68XrTCO8I1H9buhEPOa3RBncQpTDqNFJ3QZcnywl7xye2
+[29-Oct-2024 13:51:03 UTC] [Auth][Login] Password valid: Yes
+[29-Oct-2024 13:51:03 UTC] [Auth][Login] Success for user ID: 1
+[29-Oct-2024 13:51:17 UTC] isLoggedIn check - Result: false
+[29-Oct-2024 13:51:17 UTC] Current session data: Array
+(
+)
+
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] Attempt for email: admin@example.com
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] Raw password length: 8
+[29-Oct-2024 13:51:17 UTC] [Auth][Lock] Checking lock status for: admin@example.com
+[29-Oct-2024 13:51:17 UTC] [Auth][Lock] Attempts: 0, Last attempt: 
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] User data: Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [password] => $2y$10$Nxk/8mBx1C9Nrm7B2PMYVehIfbwjhMpyhVfvdLQt4vgObncMKTis.
+    [role] => admin
+    [status] => active
+    [login_attempts] => 0
+    [last_login_attempt] => 
+)
+
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] Password verification for user ID: 1
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] Input password: adm***
+[29-Oct-2024 13:51:17 UTC] [Auth][Login] Stored hash: $2y$10$Nxk/8mBx1C9Nrm7B2PMYVehIfbwjhMpyhVfvdLQt4vgObncMKTis.
+[29-Oct-2024 13:51:18 UTC] [Auth][Login] Test hash with same password: $2y$10$PFASdHYxe2NK0xGidoDb..ZDSApr6H5Ljg/MZ0ovtQOaRtDq3YeBq
+[29-Oct-2024 13:51:18 UTC] [Auth][Login] Password valid: Yes
+[29-Oct-2024 13:51:18 UTC] [Auth][Login] Success for user ID: 1
+[29-Oct-2024 13:51:18 UTC] isLoggedIn check - Result: true
+[29-Oct-2024 13:51:18 UTC] Current session data: Array
+(
+    [user_id] => 1
+    [user_name] => Admin
+    [user_role] => admin
+)
+
+[29-Oct-2024 13:51:18 UTC] getCurrentUser - Found user data: Array
+(
+    [id] => 1
+    [name] => Admin
+    [email] => admin@example.com
+    [role] => admin
+    [status] => active
+    [avatar] => 
+    [last_login] => 
+    [created_at] => 2024-10-29 19:42:24
+    [updated_at] => 2024-10-29 20:51:18
+)
+
